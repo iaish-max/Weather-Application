@@ -1,3 +1,3 @@
 # Weather-Application
-Tell Weather of any city
-use openWeather API
+Tell Weather of any city .
+use openWeather API.
